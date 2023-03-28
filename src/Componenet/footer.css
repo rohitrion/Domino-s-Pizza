@@ -1,0 +1,41 @@
+
+footer {
+    background-color: #0c2340;
+    color: #fff;
+    padding: 50px 0;
+  }
+  
+  .con {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo img {
+    max-height: 200px;
+    font-size: 90px;
+    margin-left: 100px;
+  }
+  
+  .social a {
+    color: #fff;
+    margin-right: 10px;
+    margin-right: 100px;
+ 
+  }
+  
+  .social a:last-of-type {
+    margin-right: 0;
+   
+
+  }
+  
+  .social i {
+    font-size: 30px;
+  
+  }
+  
+  .copy p {
+    font-size: 18px;
+    margin-right: 100px;
+  }
